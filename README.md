@@ -1,2 +1,2 @@
 # Geographic-Entropy-and-Knowledge-Graph
-10.5072/zenodo.145829
+https://doi.org/10.5281/zenodo.14557353
